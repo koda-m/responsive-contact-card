@@ -39,7 +39,7 @@ In `index.html`, add the following for your contact card:
 - [x] Company Name
 
 In `style.css`, do the following:
-- [ ] Include the css reset in this file. If you are unsure how to do this, please refer to the last assignment.
+- [x] Include the css reset in this file. If you are unsure how to do this, please refer to the last assignment.
 - [ ] Write two media queries to account for larger sized screens. Use the breakpoint sizes from the example wireframe or adjust them to fit your card.
 - [ ] Ensure that your card is centered horizontally on all device sizes.
 
