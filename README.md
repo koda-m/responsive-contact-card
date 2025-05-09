@@ -41,11 +41,11 @@ In `index.html`, add the following for your contact card:
 In `style.css`, do the following:
 - [x] Include the css reset in this file. If you are unsure how to do this, please refer to the last assignment.
 - [x] Write two media queries to account for larger sized screens. Use the breakpoint sizes from the example wireframe or adjust them to fit your card.
-- [ ] Ensure that your card is centered horizontally on all device sizes.
+- [x] Ensure that your card is centered horizontally on all device sizes.
 
 
 **BONUS**
-- [ ] Make your contact card centered vertically, as well as horizontally.
+- [x] Make your contact card centered vertically, as well as horizontally.
 
 ### Submitting Your Work
 
